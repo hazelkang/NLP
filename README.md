@@ -20,6 +20,4 @@ accuracy: 0.7759
 4) CNN + LSTM
 accuracy: 0.7938
 
-Kaggle competition that acheived accuracy of 0.7969. 
-
-Received top accuracy among other competitors. 
+Kaggle competition that achieved accuracy of 0.7969 (Top accuracy among competitors). 
