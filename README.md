@@ -4,6 +4,8 @@ Natural Language Programming (NLP)
 -used Kaggle dataset (Twitter sentiment analysis)
 https://www.kaggle.com/c/tweet-sentiment-extraction
 
+Kaggle code can be found here: https://www.kaggle.com/hazelkang/tweet-sentiment-preprocessing-v2
+
 Used 4 models: (with Keras Tensorflow):
 
 1) Simple RNN (vanilla RNN)
